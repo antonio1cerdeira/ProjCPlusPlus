@@ -1,4 +1,4 @@
-![Esquema do Circuito](/img/imCF.png)
+
 
 # 📟 Sensor de Força (FSR) com Arduino
 
@@ -17,7 +17,7 @@ Neste projeto, o **Arduino Uno** recebe a leitura do sensor via uma entrada anal
 - **Resistência de 10kΩ** (para pull-down)
 - **Jumpers para ligação**
 - **Cabo USB para alimentação do Arduino**
-
+![Esquema do Circuito](/img/imCF.png)
 ## 🔌 Esquema de Ligação
 
 O sensor FSR está ligado de forma que a sua resistência variável cria uma divisão de tensão, permitindo a leitura pelo Arduino:
