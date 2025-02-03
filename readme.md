@@ -32,12 +32,3 @@ O sensor FSR está ligado de forma que a sua resistência variável cria uma div
 3. Os valores lidos são exibidos no monitor serial, permitindo interpretar a intensidade da pressão.
 4. O sistema classifica os valores de pressão em diferentes categorias, como "Sem pressão", "Toque leve" e "Aperto forte".
 
-## 🚀 Possíveis Melhorias
-
-- Exibir os valores num **display LCD** para monitorização sem um computador.
-- Implementar alertas com **buzzer** ou **LEDs** para indicar diferentes níveis de pressão.
-- Utilizar um **gráfico serial** para melhor visualização dos dados.
-
----
-
-Se precisares de mais ajustes no README, avisa-me! 🚀
