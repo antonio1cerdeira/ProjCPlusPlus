@@ -32,6 +32,7 @@ Este projeto utiliza um **Arduino Uno** para ler um **encoder rotativo**, um **s
 | GND     | GND     |
 | VCC     | 5V      |
 | Sinal   | D6      |
+
 ![Esquema do Circuito](/img/chatInc.png)
 ## 📌 Como Executar
 1. **Monte o circuito conforme o esquema acima**
