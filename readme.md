@@ -1,4 +1,4 @@
-![Esquema do Circuito](img/TesteForca.png)
+![Esquema do Circuito](/img/imCF.png)
 
 # 📟 Sensor de Força (FSR) com Arduino
 
