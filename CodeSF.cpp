@@ -1,6 +1,5 @@
 // C++ code
 Descriçao:Utilização de um sensor de força
-*/
 #define FSR_PIN A0
 int fsrValue =0;
 int fsrVoltage=0;
