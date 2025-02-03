@@ -10,7 +10,9 @@ Este projeto utiliza um **Arduino Uno** e um **driver de motor L293D (Ponte H)**
 - 1 x **Potenciómetro**
 - 1 x **Suporte para 4 pilhas AA (6V)**
 - Jumpers e protoboard
+
 ![Esquema do Circuito](/img/ponteH.png)
+
 ## Circuito e Ligações
 ### **Pinos do L293D**
 - **VCC1** (pino 16) → 5V do Arduino
